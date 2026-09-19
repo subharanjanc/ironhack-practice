@@ -1,0 +1,10 @@
+# the labs are separate git repositories (each is its own fork) - keep them out
+lab-*/
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+
+# scratch files
+Untitled*.ipynb
+learn-git-branching-score.jpg
