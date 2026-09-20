@@ -21,3 +21,9 @@ in-class exercises and self-practice.
 | `map_function.pdf` | short presentation on `map()` |
 
 Datasets are in `data/` (`avocado_kaggle.csv`, `titanic.csv`).
+
+## class_demos/
+
+A copy of Luis's class demo notebook from the cohort repo
+`ironhack-ai-eng-sept2026/demos_ai_engineering_sept2026`, kept here so the
+merge practice (sections 3.4-3.6) is available offline. Original author: Luis Junco.
